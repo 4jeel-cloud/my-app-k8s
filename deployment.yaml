@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: ajeeldocker/my-app:4f78814
+          image: ajeeldocker/my-app:8e70ea2
           ports:
             - containerPort: 3000
           livenessProbe:
